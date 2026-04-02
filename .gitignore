@@ -36,3 +36,6 @@ $RECYCLE.BIN/
 
 # 序列化文件
 *.ser
+
+# 本地重复目录
+docs/
