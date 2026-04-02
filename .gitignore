@@ -1,0 +1,35 @@
+# ===== IDE配置文件 =====
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# ===== Java编译输出 =====
+*.class
+target/
+build/
+bin/
+
+# ===== 系统文件 =====
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ===== 临时文件 =====
+*.tmp
+*.temp
+*.bak

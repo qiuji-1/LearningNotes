@@ -1,0 +1,39 @@
+一、JAVA知识
+https://www.codefather.cn/course/1789189862986850306/section/1789190431398928386 
+1、看java面试题库,选择方向，计划线路
+2、JAVA的工作方向
+3、面试简历或经验
+二、AI程序员（AI能干什么？）
+1、了解AI的发展历史（2022起）
+2、了解现在常用的AI工具
+3、选择一个具体的工具（CodeBuddy）
+4、AI agent 是什么，它的发展历程
+5、OpenClaw(小龙虾)
+三、简历制作
+https://mp.weixin.qq.com/s/1JetsTkFXRR2U-AYXDgxzg
+
+
+
+20260330 周一
+1、Git Hub SSH
+2、MarkDown.md的学习
+3、看网站（AI和JAVA）
+4、提交到Git
+5、关于忽略文件和子仓库
+
+20260331 周二
+1、关于忽略文件和子仓库
+2、看java面试题库
+3、改一下idea里的测试代码的跳转部分
+
+20260401 周三
+1、看java面试题库
+2、改一下idea里的测试代码的跳转部分
+3、提交到Git
+4、体验创建一个子仓库
+
+20260402
+1、训练营
+2、idea添加CodeBuddy插件
+3、看java面试题库
+4、调整文件夹内容，把大作业跟学习内容分开
