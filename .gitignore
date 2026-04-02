@@ -33,3 +33,6 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *.bak
+
+# 序列化文件
+*.ser
