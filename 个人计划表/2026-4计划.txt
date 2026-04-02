@@ -37,3 +37,10 @@ https://mp.weixin.qq.com/s/1JetsTkFXRR2U-AYXDgxzg
 2、idea添加CodeBuddy插件
 3、看java面试题库
 4、调整文件夹内容，把大作业跟学习内容分开
+
+20260403
+1、看java面试题库
+2、AI agent 记忆系统框架设计方案
+3、提交到Git
+4、每日打卡
+5、关于AI插件
