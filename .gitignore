@@ -39,3 +39,6 @@ $RECYCLE.BIN/
 
 # 本地重复目录
 docs/
+
+# ===== 个人笔记临时文件 =====
+Learning/LearnMySQL/问题回答
