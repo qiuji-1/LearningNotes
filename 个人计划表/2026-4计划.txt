@@ -44,3 +44,8 @@ https://mp.weixin.qq.com/s/1JetsTkFXRR2U-AYXDgxzg
 3、提交到Git
 4、每日打卡
 5、关于AI插件
+
+20260407
+1、每日打卡
+2、论文设计
+3、提交git
