@@ -63,3 +63,8 @@ https://mp.weixin.qq.com/s/1JetsTkFXRR2U-AYXDgxzg
 1、每日打卡
 2、论文制作
 3、提交git
+
+202604010
+1、每日打卡
+2、论文制作
+3、提交git
